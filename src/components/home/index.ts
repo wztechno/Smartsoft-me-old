@@ -1,0 +1,6 @@
+export { default as HomeHero } from './hero'
+export { default as HomeProducts } from './products'
+export { default as HomeFeature } from './feature'
+export { default as HomeSolutions } from './solutions'
+export { default as HomeOurCard } from './card'
+export { default as HomeNewsLetter } from './newsletter'
